@@ -1,7 +1,7 @@
 
 다인용 : 20명 이상으로 전제
 
-#다인용
+# 다인용
 mg_Race_Long_Road_Extended_RSSFix
 mg_spongebob_defence_v2_1
 mg_Super_Tower_v3_RSSFix
@@ -11,13 +11,13 @@ mg_fun_matrix_trilogie
 mg_Rank_Multigames_Final_Fix
 mg_cutie_multigames_v1
 
-#티어 1
+# 티어 1
 mg_yolo_multigames_v2_1_nc1
 mg_swag_multigames_v7_nc2
 mg_Jacs_Multigame_v2_RSSFix
 mg_minecraft_multigames_v4
 
-#티어 2
+# 티어 2
 mg_arenamaker_b5_1
 mg_lego_multigames_v9
 mg_misty_island_multigames
@@ -37,11 +37,11 @@ mg_highway (칼전)
 mg_nature_multigames_v2
 mg_cs_multigames_v1_3
 
-#티어 씹닥
+# 티어 씹닥
 mg_s0uth_multigames_b2
 mg_pudding_multigames_v3_2
 
-#추가 요청사항
+# 추가 요청사항
 mg_Twisted_Towers_Course_v4_1_RSSFix
 mg_Four_Towers_Course_v1_9_RSSFix
 mg_minecraft_temple_v7en

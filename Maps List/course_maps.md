@@ -1,5 +1,4 @@
-
-#타이머
+# 타이머
 mg_100traps_v4_1_nc1 (보너스 타이머 6개)
 mg_airmap_run_v2
 mg_azure
@@ -37,7 +36,7 @@ mg_wolf_course_v6_f_go
 mg_galaxy_course_csgo_nc1
 mg_kegs_course_v3_fixed3_nc1
 
-#논타이머
+# 논타이머
 bp_flow (초보자 교육용)
 mg_basement_course_final (초보자용)
 mg_beastmario_course_v1
