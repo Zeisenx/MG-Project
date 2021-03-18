@@ -1,0 +1,79 @@
+# 타이머 완성
+- mg_damons_skyscraper_b1
+- mg_damons_canyon
+- mg_minecraft_big_adventure_v2
+
+# 타이머 미완
+mg_100traps_v4_1_nc1 (보너스 타이머 6개)
+mg_airmap_run_v2
+mg_azure
+mg_cygnus_course_v1
+mg_ecliptic_v4
+mg_gruber_course_v2_1
+mg_mikis_course
+mg_minecraft_adventure_final_fix
+mg_paska_course_rmk
+mg_pavlos_building_v1_0
+mg_schooufi_course_fixed
+mg_runordie_final
+mg_sky_realm_v4
+mg_skygrass_balkanstar_nc1
+mg_sonic_islands_v4_nc1
+mg_speeeeeed_v2_csgo
+mg_uvespace_course_betav2
+mg_wonderful_world_course_v5
+mg_wipeout_course_v1b (글리치 루트 막아야함)
+mg_yinyang_course_v2
+mg_dev_galaxie_course_csgo
+mg_bunkerspace_course1
+mg_tamucourse_a3
+mg_rezonate_course_v1
+mg_ans1mple
+mg_cypher
+mg_prison_escape_v1_2fix
+mg_kolkaz_course_v1
+mg_holidayclub_course_b3
+mg_lawl_course_final_f_go
+mg_wolf_course_v6_f_go
+mg_galaxy_course_csgo_nc1
+mg_kegs_course_v3_fixed3_nc1
+
+# 논타이머
+bp_flow (초보자 교육용)
+mg_basement_course_final (초보자용)
+mg_beastmario_course_v1
+mg_circle_course
+mg_dans_course_remaster_v1
+mg_draw_course_v2_hdr
+mg_escape_from_the_office_rework
+mg_escape_prison_beta_csgo_v3
+mg_faohu_course_v1
+mg_gavle_course_v5
+mg_go_for_it_csgo
+mg_jahoukarail_easy_2020 (뉴비용)
+mg_mario_course_v1_2
+mg_mario_galaxy_v2
+mg_minecraft_course_jb_n1
+mg_nexore_course_csgo_final_fix
+mg_nightmare_in_the_office
+mg_office_coursee_2012_fixed
+mg_parish_course_csgo
+mg_remsopor
+mg_rx_legoescape_v1_csgo_fix
+mg_savetheisland_course_reskin
+mg_siberdev_2
+mg_simpsons_course_v3
+mg_sodan_lab_tp_csgo
+mg_ifionly_csgo
+mg_ruinztrap_course_csgo
+mg_laboule_industries_b3
+mg_metro_course_hdr_v1
+mg_zeizeis_office
+
+보류
+mg_14rooms_course_v2 (LDR 맵)
+mg_2ezmap_course_v3
+mg_bobiii_reborn_v3
+mg_kolka_obstacle_v5 (수정 필요)
+mg_savethebacon_course_final_hdr (구버전 필요)
+mg_acrophobia_run_sf_fix (호불호)
