@@ -2,6 +2,7 @@
 - mg_damons_skyscraper_b1
 - mg_damons_canyon
 - mg_minecraft_big_adventure_v2
+- mg_cypher
 
 # 타이머 미완
 mg_100traps_v4_1_nc1 (보너스 타이머 6개)
@@ -29,7 +30,6 @@ mg_bunkerspace_course1
 mg_tamucourse_a3
 mg_rezonate_course_v1
 mg_ans1mple
-mg_cypher
 mg_prison_escape_v1_2fix
 mg_kolkaz_course_v1
 mg_holidayclub_course_b3

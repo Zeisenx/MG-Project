@@ -1,0 +1,1 @@
+- 라운드 시작시 weapon strip 작동 안됨

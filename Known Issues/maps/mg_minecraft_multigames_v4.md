@@ -1,0 +1,1 @@
+- 'Defends', 'Boss Fight' 적에게 데미지를 입히기가 가능한 현상
